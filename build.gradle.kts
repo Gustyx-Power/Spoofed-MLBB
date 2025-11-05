@@ -5,7 +5,7 @@ plugins {
 android {
     namespace = "com.gustyx.spoofedmlbb"
     compileSdk = 34
-    ndkVersion = "26.1.10909125"
+    ndkVersion = "29.0.14206865"
 
     defaultConfig {
         applicationId = "com.gustyx.spoofedmlbb"
