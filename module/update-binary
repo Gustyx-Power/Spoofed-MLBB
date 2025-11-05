@@ -1,0 +1,47 @@
+cat > ~/Documents/Project/XMS/Spoofed-MLBB/module/update-binary << 'EOFBIN'
+#!/sbin/sh
+OUTFD=$2
+ZIPFILE=$3
+
+ui_print() {
+  echo "ui_print $1" >> /proc/self/fd/$OUTFD
+  echo "ui_print" >> /proc/self/fd/$OUTFD
+}
+
+ui_print "==================================================="
+ui_print "  Spoofed-MLBB v1.0"
+ui_print "  Mobile Legends Device Spoofer"
+ui_print "  Author: Gustyx-Power"
+ui_print "==================================================="
+ui_print ""
+ui_print "Installing Zygisk Module..."
+ui_print ""
+ui_print "Device Target: Xiaomi 15"
+ui_print "Model Code: 24129PN74G"
+ui_print "CPU Spoofed: Snapdragon 8 Elite"
+ui_print ""
+ui_print "Installation Progress:"
+ui_print "  ✓ Extracting files"
+ui_print "  ✓ Setting permissions"
+ui_print "  ✓ Configuring properties"
+ui_print ""
+ui_print "==================================================="
+ui_print "  Installation Complete!"
+ui_print "==================================================="
+ui_print ""
+ui_print "Requirements:"
+ui_print "  • Zygisk Module Installed"
+ui_print "  • Fresh Mobile Legends Install"
+ui_print "  • Clear Google Play Services"
+ui_print ""
+ui_print "Please REBOOT to activate module"
+ui_print ""
+ui_print "Enjoy!"
+ui_print ""
+
+true
+EOFBIN
+
+chmod 755 ~/Documents/Project/XMS/Spoofed-MLBB/module/update-binary
+
+echo "✓ Custom update-binary created"
