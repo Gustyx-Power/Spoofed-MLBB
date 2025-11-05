@@ -1,0 +1,8 @@
+id=spoofed.mlbb
+name=Spoofed-MLBB
+version=1.0
+versionCode=100
+author=Gustyx-Power
+description=Unlock 120 FPS in Mobile Legends by spoofing your device as a Xiaomi 15 (Zygisk Module)
+updateJson=https://raw.githubusercontent.com/Gustyx-Power/Spoofed-MLBB/main/update.json
+support=https://github.com/Gustyx-Power/Spoofed-MLBB/issues
