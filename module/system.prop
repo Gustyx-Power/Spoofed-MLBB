@@ -1,0 +1,48 @@
+# Device Model Properties
+ro.product.model=24129PN74G
+ro.product.system.model=24129PN74G
+ro.product.vendor.model=24129PN74G
+ro.product.odm.model=24129PN74G
+
+# Device Name Properties
+ro.product.device=dada
+ro.product.system.device=dada
+ro.product.vendor.device=dada
+ro.product.odm.device=dada
+
+# Brand Properties
+ro.product.brand=Xiaomi
+ro.product.system.brand=Xiaomi
+ro.product.vendor.brand=Xiaomi
+ro.product.odm.brand=Xiaomi
+
+# Manufacturer Properties
+ro.product.manufacturer=Xiaomi
+ro.product.system.manufacturer=Xiaomi
+ro.product.vendor.manufacturer=Xiaomi
+ro.product.odm.manufacturer=Xiaomi
+
+# Marketname
+ro.product.marketname=Xiaomi 15
+ro.product.system.marketname=Xiaomi 15
+ro.product.vendor.marketname=Xiaomi 15
+
+# Product Name
+ro.product.name=dada
+ro.product.system.name=dada
+ro.product.vendor.name=dada
+ro.product.odm.name=dada
+
+# GPU Properties - CRITICAL untuk 120FPS
+ro.hardware.vulkan=adreno
+ro.hardware.egl=adreno
+ro.opengles.version=196610
+ro.vendor.opengles.version=196610
+
+# Display
+ro.sf.lcd_density=420
+ro.display.lcd_density=420
+
+# SoC
+ro.soc.model=SM8750-AB
+ro.hardware=qcom
