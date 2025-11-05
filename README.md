@@ -8,7 +8,7 @@
 
 Spoofed-MLBB is a Zygisk module designed to spoof the device model of an Android system. This module intercepts and modifies system properties related to the device's identity, such as `ro.product.model`, `ro.product.name`, and `ro.product.brand`.
 
-By altering these properties to match those of a high-end device—specifically the Xiaomi 15 in this case—it tricks the Android operating system and applications into recognizing the device as a different, more powerful model. The primary goal is to unlock features or performance modes in certain applications (like Mobile Legends: Bang Bang) that are typically reserved for flagship devices. This is achieved by making the system believe it is running on a Xiaomi 15, equipped with a top-tier processor.
+By altering these properties to match those of a high-end device specifically the Xiaomi 15 in this case it tricks the Android operating system and applications into recognizing the device as a different, more powerful model. The primary goal is to unlock features or performance modes in certain applications (like Mobile Legends: Bang Bang) that are typically reserved for flagship devices. This is achieved by making the system believe it is running on a Xiaomi 15, equipped with a top-tier processor.
 
 ---
 
