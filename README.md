@@ -1,4 +1,3 @@
-cat > ~/Documents/Project/XMS/Spoofed-MLBB/README.md << 'EOFREADME'
 # Spoofed-MLBB
 
 **Device Model Spoofer Zygisk Module for Mobile Legends**
